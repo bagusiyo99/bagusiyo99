@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bagus Dwi Prasetyo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusiyo99&label=Profile%20views&color=0e75b6&style=flat" alt="bagusiyo99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagusiyo99" alt="bagusiyo99" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bagus-dwi-prasetyo-81796b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bagus-dwi-prasetyo-81796b226/" height="30" width="40" /></a>
@@ -14,3 +10,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusiyo99&show_icons=true&locale=en&layout=compact" alt="bagusiyo99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagusiyo99&show_icons=true&locale=en" alt="bagusiyo99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagusiyo99&" alt="bagusiyo99" /></p>
